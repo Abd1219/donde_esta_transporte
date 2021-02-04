@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "751965510058",
+    "project_id": "donde-esta-transporte",
+    "storage_bucket": "donde-esta-transporte.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751965510058:android:5afcbd0268c6f9182cf3d3",
+        "android_client_info": {
+          "package_name": "com.example.donde_esta_trasnporte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751965510058-hatthjs8pc67jbk54k1v9rsbd4q2kdlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH_ARGXg6VhlOHMySC7GmAdtdN0q4qRIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751965510058-hatthjs8pc67jbk54k1v9rsbd4q2kdlj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

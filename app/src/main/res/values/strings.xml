@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Donde esta transporte</string>
+    <string name="donde_esta_transporte">Donde esta transporte</string>
+    <string name="iniciar_sesion_con_google">Iniciar sesion con Google</string>
+    <string name="salir">Salir</string>
+    <!--<string name="default_web_client_id">751965510058-j32fuctls0931ogg2su264dfdtb2lob3.apps.googleusercontent.com</string>-->
+</resources>
